@@ -10,6 +10,16 @@ form {
 
 button {
     margin: 20px 15px 0px 0px;
-    border-radius: 5px;     
+    border-radius: 5px;   
+ 
 }
 
+.btn_salvar:hover {
+    background-color: #3f51b5; 
+    color: white;
+}
+
+.btn_cancelar:hover {
+    background-color: #e35e6b; 
+    color: white;
+}

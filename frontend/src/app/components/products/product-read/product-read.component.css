@@ -9,6 +9,11 @@ table {
 .edit > i {
     color: #d9cd26;
 }
+
 .delete > i {
     color: #e35e6b;
+}
+
+.align-right {
+    text-align: right;
 }
