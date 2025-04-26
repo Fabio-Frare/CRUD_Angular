@@ -3,17 +3,27 @@
     {
       "id": "1",
       "name": "Caneta BIC Preta",
-      "price": 5.89
+      "price": "5.89"
     },
     {
       "id": "2",
       "name": "Notebook Mac Pro",
-      "price": 1210.52
+      "price": "1210.52"
     },
     {
       "id": "3",
-      "name": "Sansung S20",
-      "price": 5000.89
+      "name": "Sansung S20+ Ultra",
+      "price": "7500.89"
+    },
+    {
+      "id": "4",
+      "name": "Lápis grafite B",
+      "price": "3.78"
+    },
+    {
+      "id": "5",
+      "name": "Apontador verde",
+      "price": "6.25"
     }
   ]
 }
