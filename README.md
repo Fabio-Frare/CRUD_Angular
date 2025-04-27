@@ -1,4 +1,4 @@
-![Angular](frontend/src/assets/img/Logo_Angular.png)
+![Angular](CRUD_Angular\frontend\srcassets\img\Logo_Angular.png)
 
 # Cadastro de produtos (CRUD)
 
@@ -12,15 +12,15 @@ Leonardo Leitão
 
 Desenvolvimento de um site para cadastro de produtos utilizando Angular no frontend e Node no backend. 
 
-![inicio](frontend\src\assets\img\Logo_Angular.png)
+![inicio](CRUD_Angular/frontend\src\assets\img\Logo_Angular.png)
 
-![Lista de Produtos](frontend\src\assets\img\Lista_produtos.png)
+![Lista de Produtos](CRUD_Angular/frontend\src\assets\img\Lista_produtos.png)
 
-![Novo Produto](frontend\src\assets\img\Novo_produto.png)
+![Novo Produto](CRUD_Angular/frontend\src\assets\img\Novo_produto.png)
 
-![Editar Produto](frontend\src\assets\img\Editar_produto.png)
+![Editar Produto](CRUD_Angular/frontend\src\assets\img\Editar_produto.png)
 
-![Excluir Produto](frontend\src\assets\img\Excluir_produto.png)
+![Excluir Produto](CRUD_Angular/frontend\src\assets\img\Excluir_produto.png)
  
 
  
