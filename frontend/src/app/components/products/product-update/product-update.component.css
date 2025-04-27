@@ -1,3 +1,8 @@
+mat-card {
+    border-radius: 0px; 
+    padding: 10px;
+}
+
 form {
    display: flex;
    flex-direction: column; 
@@ -5,10 +10,7 @@ form {
 }
 
 button {
-    margin-right: 20px 15px 0px 0px;
+    margin: 15px 15px 0px 0px;
     border-radius: 0px;
 }
-mat-card {
-    border-radius: 0px; 
-    padding: 10px;
-}
+
