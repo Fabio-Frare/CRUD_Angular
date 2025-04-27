@@ -1,4 +1,4 @@
-![Worpress](frontend\src\assets\img\Logo_Angular.png)
+![Angular](frontend/src/assets/img/Logo_Angular.png)
 
 # Cadastro de produtos (CRUD)
 
