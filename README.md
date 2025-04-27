@@ -1,4 +1,4 @@
-![Angular](CRUD_Angular\frontend\srcassets\img\Logo_Angular.png)
+![Angular](frontend\srcassets\img\Logo_Angular.png)
 
 # Cadastro de produtos (CRUD)
 
